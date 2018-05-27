@@ -1,0 +1,7 @@
+#Sun Mar 18 17:33:12 IST 2018
+base.0=/home/ganesh/Desktop/test/android/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_de25059c4015334b10888a3ca7d65f3d4285957d
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/home/ganesh/Desktop/test/android/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_3690b156e28bba12567bcf950a5dc5678d67b9ce/classes.dex
+base.1=/home/ganesh/Desktop/test/android/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_3690b156e28bba12567bcf950a5dc5678d67b9ce
+file.0=/home/ganesh/Desktop/test/android/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_de25059c4015334b10888a3ca7d65f3d4285957d/classes.dex

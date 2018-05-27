@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/ganesh/Desktop/test/android/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d365234f926642d027bd07172eb7be6af00858c6">
+        <dex dex="/home/ganesh/Desktop/test/android/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_de25059c4015334b10888a3ca7d65f3d4285957d/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ganesh/.gradle/caches/modules-2/files-2.1/com.badlogicgames.gdx/gdx-backend-android/1.9.6/57c2831c870743712b808384187ea856e541878f/gdx-backend-android-1.9.6.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="57c2831c870743712b808384187ea856e541878f">
+        <dex dex="/home/ganesh/Desktop/test/android/build/intermediates/pre-dexed/debug/gdx-backend-android-1.9.6_3e7a368c5c77d340b20d3ba0ee0e81119f1cdfc7.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ganesh/Desktop/test/android/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/home/ganesh/Desktop/test/android/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_3690b156e28bba12567bcf950a5dc5678d67b9ce/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ganesh/.gradle/caches/modules-2/files-2.1/com.badlogicgames.gdx/gdx-box2d/1.9.6/c249ef4060a4fada952f278455c8f7b9cba3c18a/gdx-box2d-1.9.6.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="c249ef4060a4fada952f278455c8f7b9cba3c18a">
+        <dex dex="/home/ganesh/Desktop/test/android/build/intermediates/pre-dexed/debug/gdx-box2d-1.9.6_5a9324c159aea313d541b6177f72bb8b14f96fd4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ganesh/Desktop/test/core/build/libs/core-1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="8fa8784df478302ee3bed5f16e6f688132319b55">
+        <dex dex="/home/ganesh/Desktop/test/android/build/intermediates/pre-dexed/debug/core-1.0_ef81a47d18d5ea2d2f910391a34515969b2827a1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ganesh/.gradle/caches/modules-2/files-2.1/com.badlogicgames.gdx/gdx/1.9.6/47d1e9b890e364ec28f128e9bb3b9a12a94c164/gdx-1.9.6.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="047d1e9b890e364ec28f128e9bb3b9a12a94c164">
+        <dex dex="/home/ganesh/Desktop/test/android/build/intermediates/pre-dexed/debug/gdx-1.9.6_f0a92544ac8cca2224d31ccfa62552030e033537.jar" />
+    </item>
+
+</items>
